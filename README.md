@@ -9,12 +9,6 @@ This is a simple static website built using HTML, CSS, and Node.js. It demonstra
 - Static assets support (CSS, images)
 - Simple Node.js server without frameworks
 
-## Installation
-
-1. Make sure you have [Node.js](https://nodejs.org/) installed.
-2. Clone this repository or download the project files.
-3. Open a terminal in the project folder.
-
 ## Running the Server
 
 ```bash
